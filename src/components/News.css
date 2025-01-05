@@ -1,0 +1,28 @@
+.news-container {
+  padding: 20px;
+}
+
+.news-container h1 {
+  color: #333;
+}
+
+.news-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.news-list li {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.news-list h2 {
+  margin: 0;
+  color: #007BFF;
+}
+
+.news-list p {
+  margin: 5px 0;
+  color: #555;
+} 
